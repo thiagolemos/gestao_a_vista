@@ -1,20 +1,15 @@
 var slideIndex = 0;
 const slides = [
   {
-    name: 'Ritos Tribo',
+    name: 'Burndown',
     page:
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vSpC_x6FOQi7QOG4-gFFZzgIp_BCHZEKLHy8PoJpA9twqOAsRVMUerK9BEhglaI92K58qjW4DOFFkMC/pubhtml?gid=2092766634&single=true',
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQvcXuN_MWoenkykYHf4FEa832STbgvAqV_Tc06Rn6ToSAAl6TXHSvOR4Mw3X7Md-1k-KJ05yFBJaTF/pubchart?oid=1745078327&format=image',
     seconds: 60
   },
   {
-    name: 'Diagnóstico',
+    name: 'Atividades',
     page:
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vSpC_x6FOQi7QOG4-gFFZzgIp_BCHZEKLHy8PoJpA9twqOAsRVMUerK9BEhglaI92K58qjW4DOFFkMC/pubhtml?gid=890090851&single=true',
-    seconds: 60
-  },
-  {
-    name: '1-1',
-    page: 'https://curingas-dti-digital.github.io/curingas-dti-gestao-a-vista',
+      'https://docs.google.com/spreadsheets/d/1H7qHm-CM-yvAcnt99wA_eTaV3W2ss6sXGhwsOa5xlXI/edit#gid=379786966',
     seconds: 60
   }
 ];
