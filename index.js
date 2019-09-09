@@ -25,5 +25,5 @@ function showSlides() {
   document.getElementById('slideshow-viewport').src = slides[i].page;
   document.getElementById('slideshow-viewport').contentWindow.location.href = slides[i].page;
   // $('#slideshow-viewport').attr('src', slides[i].page);
-  setTimeout(showSlides, slides[i].seconds * 100); // Change image every 2 seconds
+  setTimeout(showSlides, slides[i].seconds * 1000); // Change image every 2 seconds
 }
