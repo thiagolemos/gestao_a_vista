@@ -4,7 +4,7 @@ const slides = [
     name: 'Jetsons Farm',
     page:
       'https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSfkUzbPxmPQA49Az1tXINQ6MpfOHVq7rFthvikqkNIVADKThgOVCSrue_WEbOuBZ8i1M5L5FP9FjZV/pubhtml?gid=681837777&single=true',
-    seconds: 60
+    seconds: 6
   },
    {
     name: 'Racha Cuca',
