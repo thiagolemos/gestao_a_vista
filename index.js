@@ -5,6 +5,12 @@ const slides = [
     page:
       'https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSfkUzbPxmPQA49Az1tXINQ6MpfOHVq7rFthvikqkNIVADKThgOVCSrue_WEbOuBZ8i1M5L5FP9FjZV/pubhtml?gid=681837777&single=true',
     seconds: 60
+  },
+   {
+    name: 'Racha Cuca',
+    page:
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQvcXuN_MWoenkykYHf4FEa832STbgvAqV_Tc06Rn6ToSAAl6TXHSvOR4Mw3X7Md-1k-KJ05yFBJaTF/pubhtml?gid=1082556539&single=true',
+    seconds: 6
   }
 ];
 
