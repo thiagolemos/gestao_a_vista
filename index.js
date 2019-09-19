@@ -11,6 +11,12 @@ const slides = [
     page:
       'https://docs.google.com/spreadsheets/d/e/2PACX-1vQvcXuN_MWoenkykYHf4FEa832STbgvAqV_Tc06Rn6ToSAAl6TXHSvOR4Mw3X7Md-1k-KJ05yFBJaTF/pubhtml?gid=1082556539&single=true',
     seconds: 20
+  },
+  {
+    name: 'Racha Cuca',
+    page:
+      'https://drive.google.com/file/d/1VqVGF7rPBOQ7HXKY_C8Bhe63Zab9MwX0/view',
+    seconds: 20
   }
 ];
 
