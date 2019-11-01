@@ -4,19 +4,19 @@ const slides = [
     name: 'Jetsons Farm',
     page:
       'https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSfkUzbPxmPQA49Az1tXINQ6MpfOHVq7rFthvikqkNIVADKThgOVCSrue_WEbOuBZ8i1M5L5FP9FjZV/pubhtml?gid=681837777&single=true',
-    seconds: 20
+    seconds: 5
   },
    {
     name: 'Racha Cuca',
     page:
       'https://docs.google.com/spreadsheets/d/e/2PACX-1vRNCzg2yt698kYJd0reE6PpXT7lKgNB2rlO4-rAgHCd59H3HOjm6DJOy-46A6P7mKWENq_8-gUPbH2j/pubhtml?gid=1082556539&single=true',
-    seconds: 20
+    seconds: 5
   },
   {
     name: 'Racha Cuca',
     page:
-      'https://drive.google.com/file/d/1VqVGF7rPBOQ7HXKY_C8Bhe63Zab9MwX0/view',
-    seconds: 20
+      'https://us-east-1.online.tableau.com/#/site/prodapanalytics/views/Gestoavista-Carga/MonitoramentodeCarga?:iid=1',
+    seconds: 5
   }
 ];
 
