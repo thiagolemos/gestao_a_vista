@@ -15,7 +15,7 @@ const slides = [
   {
     name: 'Racha Cuca',
     page:
-      'https://us-east-1.online.tableau.com/#/site/prodapanalytics/views/Gestoavista-Carga/MonitoramentodeCarga?:iid=1',
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQJBkN1CbqskTHHnDlV-LQCzHBCtC9DniWaIFOdrmzTDiOHdmUJ7opwtJyGXviMVFE9Za4yX75to-At/pubhtml?gid=1082556539&single=true',
     seconds: 5
   }
 ];
