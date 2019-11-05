@@ -9,11 +9,11 @@ const slides = [
    {
     name: 'Racha Cuca',
     page:
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vRNCzg2yt698kYJd0reE6PpXT7lKgNB2rlO4-rAgHCd59H3HOjm6DJOy-46A6P7mKWENq_8-gUPbH2j/pubhtml?gid=1082556539&single=true',
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbkCRqte97xOzdyIr0WQw-tRvgC53hsFw077ngt85rGzN4HFE1ClDjZNjOWCeVgCSi5pZqwpmUn1P/pubhtml?gid=1082556539&single=true',
     seconds: 20
   },
   {
-    name: 'Racha Cuca',
+    name: 'Smart Mill',
     page:
       'https://docs.google.com/spreadsheets/d/e/2PACX-1vQJBkN1CbqskTHHnDlV-LQCzHBCtC9DniWaIFOdrmzTDiOHdmUJ7opwtJyGXviMVFE9Za4yX75to-At/pubhtml?gid=1082556539&single=true',
     seconds: 20
