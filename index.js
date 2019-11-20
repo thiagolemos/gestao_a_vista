@@ -15,7 +15,7 @@ const slides = [
   {
     name: 'Smart Mill',
     page:
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQJBkN1CbqskTHHnDlV-LQCzHBCtC9DniWaIFOdrmzTDiOHdmUJ7opwtJyGXviMVFE9Za4yX75to-At/pubhtml?gid=1082556539&single=true',
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vR665cJuPzqZF2UU400rIdP3cRf92KZzFzBBN0lZoJjFEpK5cZcNpvp0-P1zNfOK3jsQJ6s6jGc_Gda/pubhtml?gid=1082556539&single=true',
     seconds: 20
   }
 ];
