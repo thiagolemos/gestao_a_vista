@@ -9,7 +9,7 @@ const slides = [
    {
     name: 'Racha Cuca',
     page:
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQXbkCRqte97xOzdyIr0WQw-tRvgC53hsFw077ngt85rGzN4HFE1ClDjZNjOWCeVgCSi5pZqwpmUn1P/pubhtml?gid=1082556539&single=true',
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQf6eBUoPSPyDIDgSVPEWxlRv6UQsaMESP-ikzCl1ixrj-5giJkmK7Bh0u-BuwIT1FgVgvAVAjCnCWL/pubhtml?gid=840978856&single=true',
     seconds: 20
   },
   {
