@@ -6,12 +6,6 @@ const slides = [
       'https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSfkUzbPxmPQA49Az1tXINQ6MpfOHVq7rFthvikqkNIVADKThgOVCSrue_WEbOuBZ8i1M5L5FP9FjZV/pubhtml?gid=681837777&single=true',
     seconds: 20
   },
-   {
-    name: 'Racha Cuca',
-    page:
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQf6eBUoPSPyDIDgSVPEWxlRv6UQsaMESP-ikzCl1ixrj-5giJkmK7Bh0u-BuwIT1FgVgvAVAjCnCWL/pubhtml?gid=840978856&single=true',
-    seconds: 20
-  },
   {
     name: 'Smart Mill',
     page:
